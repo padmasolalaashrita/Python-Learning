@@ -1,0 +1,16 @@
+# Password Generator
+
+A beginner Python project created while learning Python fundamentals.
+
+## Concepts Used
+- Variables
+- Lists
+- Loops
+- User Input
+- Random Module
+
+## What It Does
+Generates secure random passwords based on user requirements.
+
+## Learning Goal
+Built as part of my Data Science learning journey.
