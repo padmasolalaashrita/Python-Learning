@@ -52,10 +52,11 @@ transportation_words = [
     "spaceship"
 ]
 computer_choice = random.choice(transportation_words)
-print(computer_choice)
+#print(computer_choice)
 length_word = len(computer_choice)
 for i in range (length_word):
     print("_",end = " ")
+    
 
 
 word = []
